@@ -65,7 +65,7 @@ int main() {
 // Informações da Primeira Carta
 
     printf("Carta 1:\n");
-    printf("Estado: %s\n", estado);
+    printf("Estado: %c\n", estado);
     printf("Código: %s\n", codigo);
     printf("Nome da Cidade: %s\n", nomeDAcidade);
     printf("Área: %2.f em km2", area);
@@ -73,8 +73,8 @@ int main() {
     printf("Número de Pontos Turísticos: %d\n",pontosTuristicos);
     
 // Informações da Segunda Carta
-    printf("Carta 1:\n");
-    printf("Estado: %s\n", estado2);
+    printf("Carta 2:\n");
+    printf("Estado: %c\n", estado2);
     printf("Código: %s\n", codigo2);
     printf("Nome da Cidade: %s\n", nomeDAcidade2);
     printf("Área: %2.f em km2", area2);
